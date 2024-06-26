@@ -43,3 +43,7 @@ Proyek ini menggunakan API dari [RapidAPI](https://rapidapi.com/) untuk menghitu
 
 1. Clone repository ini.
 2. Buka file `index.html` di browser untuk melihat aplikasi berjalan.
+
+## **Penulis**
+
+Proyek ini dibuat oleh **Luqman Kurnia Sandy**.
