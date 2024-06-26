@@ -4,7 +4,7 @@ Kalkulator Cinta adalah aplikasi web yang dapat menghitung kecocokan cinta antar
 
 ## **Fitur**
 
-- **Menghitung persentase kecocokan cinta berdasarkan nama.**
+- Menghitung persentase kecocokan cinta berdasarkan nama.
 - Menampilkan pesan informasi berdasarkan persentase kecocokan.
 - Mode gelap dan terang yang dapat diubah dengan tombol.
 - Validasi input untuk memastikan kedua nama dimasukkan.
