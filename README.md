@@ -1,5 +1,6 @@
 # Kalkulator Cinta
 
+![Gambar](https://drive.google.com/uc?export=view&id=1D8VdoPonhfBtlL7elypKL1tSyTisEwAA)
 Kalkulator Cinta adalah aplikasi web yang dapat menghitung kecocokan cinta antara dua orang berdasarkan nama mereka. Aplikasi ini menggunakan API untuk menghitung persentase kecocokan dan memberikan informasi tambahan berdasarkan hasil yang didapatkan.
 
 ## **Fitur**
@@ -21,13 +22,14 @@ Kalkulator Cinta adalah aplikasi web yang dapat menghitung kecocokan cinta antar
 
 ## Cara Menggunakan
 
-1. **Buka file `index.html` di browser.**
-2. Masukkan nama Anda pada kolom **"Nama Anda"**.
-3. Masukkan nama pasangan Anda pada kolom **"Nama Pasangan"**.
-4. Klik tombol **"Hitung"**.
-5. Hasil persentase kecocokan cinta akan ditampilkan bersama dengan informasi tambahan.
-6. Anda dapat mengubah mode tampilan antara gelap dan terang dengan tombol **"Switch to Dark Mode"** atau **"Switch to Light Mode"**.
-7. Klik tombol **"Tutup Hasil"** untuk menyembunyikan hasil.
+1. Clone repository ini.
+2. **Buka file `index.html` di browser.**
+3. Masukkan nama Anda pada kolom **"Nama Anda"**.
+4. Masukkan nama pasangan Anda pada kolom **"Nama Pasangan"**.
+5. Klik tombol **"Hitung"**.
+6. Hasil persentase kecocokan cinta akan ditampilkan bersama dengan informasi tambahan.
+7. Anda dapat mengubah mode tampilan antara gelap dan terang dengan tombol **"Switch to Dark Mode"** atau **"Switch to Light Mode"**.
+8. Klik tombol **"Tutup Hasil"** untuk menyembunyikan hasil.
 
 ## Struktur Proyek
 
@@ -38,11 +40,6 @@ Kalkulator Cinta adalah aplikasi web yang dapat menghitung kecocokan cinta antar
 ## **API yang Digunakan**
 
 Proyek ini menggunakan API dari [RapidAPI](https://rapidapi.com/) untuk menghitung persentase kecocokan cinta. API ini memerlukan kunci API yang harus disertakan dalam header setiap permintaan.
-
-## Instalasi
-
-1. Clone repository ini.
-2. Buka file `index.html` di browser untuk melihat aplikasi berjalan.
 
 ## **Penulis**
 
